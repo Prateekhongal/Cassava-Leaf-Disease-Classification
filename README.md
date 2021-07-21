@@ -9,19 +9,17 @@ It is suggested to use the datasets from Kaggle https://www.kaggle.com/c/cassava
 
 train.csv
 
-image_id the image file name.
+image_id: The image file name.
 
-label the ID code for the disease.
+label: The ID code for the disease.
 
-sample_submission.csv A properly formatted sample submission, given the disclosed test set content.
+sample_submission.csv: A properly formatted sample submission, given the disclosed test set content.
 
-image_id the image file name.
+image_id: The image file name.
 
-label the predicted ID code for the disease.
+Task: Label the predicted ID code for the disease.
 
-[train/test]_tfrecords the image files in tfrecord format.
-
-label_num_to_disease_map.json The mapping between each disease code and the real disease name.
+label_num_to_disease_map.json: The mapping between each disease code and the real disease name.
 
 # Run
 Run the "Script.py" for both training and testing.
