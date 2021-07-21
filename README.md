@@ -22,4 +22,4 @@ Task: Label the predicted ID code for the disease.
 label_num_to_disease_map.json: The mapping between each disease code and the real disease name.
 
 # Run
-Run the "Script.py" for both training and testing.
+Run the "Classification.py" for both training and testing.
