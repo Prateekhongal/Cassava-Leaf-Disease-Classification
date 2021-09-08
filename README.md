@@ -5,8 +5,6 @@ The machine learning algorithm used here is EfficientNetB3.
 # Datasets
 It is suggested to use the datasets from Kaggle https://www.kaggle.com/c/cassava-leaf-disease-classification/data.
 
-[train/test]_images the image files. The full set of test images will only be available to your notebook when it is submitted for scoring. Expect to see roughly 15,000 images in the test set.
-
 train.csv
 
 image_id: The image file name.
